@@ -9,7 +9,6 @@
   
   <modules>
   	<module>dubbo-provider-api</module>
-  	<module>mybatis-generator</module>
   	<module>dubbo-provider-service</module>
   	<module>dubbo-provider-dao</module>
   </modules>
